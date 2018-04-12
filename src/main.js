@@ -8,3 +8,5 @@ new Vue({
   el: '#app',
   render: h => h(App)
 })
+
+// always use app-header(lowercase dash separated) to name your components
